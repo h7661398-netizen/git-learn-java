@@ -10,5 +10,7 @@ public class HelloData {
         System.out.println("789");
         System.out.println("HHHH");
         System.out.println("111");
+        System.out.println("whatever");
+        System.out.println("1111111111");
     }
 }
