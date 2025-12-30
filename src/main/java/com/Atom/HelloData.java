@@ -8,5 +8,7 @@ public class HelloData {
         System.out.println("black");
         System.out.println("你好");
         System.out.println("789");
+        System.out.println("哈哈哈");
+        System.out.println("111");
     }
 }
