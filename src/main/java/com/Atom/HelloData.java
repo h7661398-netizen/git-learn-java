@@ -6,5 +6,7 @@ public class HelloData {
         System.out.println("Hello Atom!");
         System.out.println("red");
         System.out.println("black");
+        System.out.println("哈哈哈");
+        System.out.println("111");
     }
 }
