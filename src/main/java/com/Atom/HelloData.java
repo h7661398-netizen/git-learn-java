@@ -6,9 +6,9 @@ public class HelloData {
         System.out.println("Hello Atom!");
         System.out.println("red");
         System.out.println("black");
-        System.out.println("你好");
+        System.out.println("Hello");
         System.out.println("789");
-        System.out.println("哈哈哈");
+        System.out.println("laugh");
         System.out.println("111");
     }
 }
