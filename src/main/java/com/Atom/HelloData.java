@@ -8,5 +8,6 @@ public class HelloData {
         System.out.println("black");
         System.out.println("pink");
         System.out.println("gray");
+        System.out.println("blue");
     }
 }
