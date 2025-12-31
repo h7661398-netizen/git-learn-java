@@ -14,5 +14,8 @@ public class HelloData {
         System.out.println("1111111111");
         System.out.println("第一部分");
         System.out.println("shrimp");
+        System.out.println("喜羊羊");
+        System.out.println("美羊羊");
+        System.out.println("懒羊羊");
     }
 }
