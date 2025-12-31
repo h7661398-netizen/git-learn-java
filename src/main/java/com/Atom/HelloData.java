@@ -13,6 +13,5 @@ public class HelloData {
         System.out.println("whatever");
         System.out.println("1111111111");
         System.out.println("第一部分");
-        System.out.println("second part");
     }
 }
